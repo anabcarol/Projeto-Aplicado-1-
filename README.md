@@ -1,4 +1,4 @@
-# Projeto-Aplicado-1-
+# Projeto-Aplicado-1
 Ciência de Dados - Universidade Presbiteriana Mackenzie 
 
 Análise Exploratória - Dados de Ações do Walmart - Efeitos da Pandemia no mercado de ações
